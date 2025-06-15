@@ -1,0 +1,13 @@
+{
+  "name": "testgame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \u0022Error: no test specified\u0022 \u0026\u0026 exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
